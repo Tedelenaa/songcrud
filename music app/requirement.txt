@@ -1,0 +1,7 @@
+the app is named 'musicapp' and these would be the dependencies for the app:
+1. a index.html file for the homepage
+2. a style.css file for the styling of the homepage(it must have media responsive elements)
+3. an icon for the 'musicapp' app
+4. a django file containing the elements that would that the website becomes interactive
+5. a table will be included in the index.html file
+6. more will be added for next week's project
